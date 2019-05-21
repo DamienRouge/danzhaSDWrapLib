@@ -1,0 +1,12 @@
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\ServiceDeskWrapLib.TestCol.exe.config
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\ServiceDeskWrapLib.TestCol.exe
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\ServiceDeskWrapLib.TestCol.pdb
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\FederatedAuthentication.dll
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\ServiceDeskWrapLib.dll
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\obj\Debug\ServiceDeskWrapLib.TestCol.csprojAssemblyReference.cache
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\obj\Debug\ServiceDeskWrapLib.TestCol.csproj.CoreCompileInputs.cache
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\obj\Debug\ServiceDeskWrapLib.TestCol.csproj.CopyComplete
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\obj\Debug\ServiceDeskWrapLib.TestCol.exe
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\obj\Debug\ServiceDeskWrapLib.TestCol.pdb
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\Newtonsoft.Json.pdb
+D:\CaseSummaryReportRep\CaseSummaryReport\CaseSummaryReport\ServiceDeskWrapLib.TestCol\bin\Debug\Newtonsoft.Json.xml
